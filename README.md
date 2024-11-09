@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🔭 I’m currently working on `perse` package a high level experimental package to leverage best of three giants Pandas, Polars and Duckdb.
+🔭 I’m currently working on `perse` an experimental, high level package to leverage best of three giants Pandas, Polars and Duckdb.
 
 
 ## 🔧 Projects & Packages
