@@ -17,7 +17,18 @@ Here are some of my notable open-source projects:
 - **[eseas](https://github.com/SermetPekin/eseas)** – `eseas` is a seasonal adjustment Python package that acts as a wrapper for the `jwsacruncher` Java package. This tool allows users to process Demetra workspace XML files, create batch files, execute them, and collect the desired outputs into individual Excel files. 
 
 
+
+
+
 <!--
+
+## 📊 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SermetPekin&theme=github) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SermetPekin&theme=github) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SermetPekin&theme=github) 
+
 **SermetPekin/SermetPekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
