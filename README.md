@@ -7,7 +7,7 @@
 ## 🔧 Projects & Packages
 
 Here are some of my notable open-source projects:
-- **[perse](https://github.com/SermetPekin/nameisok)** – A high level framework to leverage best of three giants, Pandas, Polars and Duckdb
+- **[perse](https://github.com/SermetPekin/perse)** – A high level framework to leverage best of three giants, Pandas, Polars and Duckdb
 - **[nameisok](https://github.com/SermetPekin/nameisok)** – A tool to check if a package name is available on PyPI, complete with similarity checks and BigQuery integration.
 - **[evdschat](https://github.com/SermetPekin/evdschat)** – An open-source chatbot application for data aggregation with PyPI.
 - **[evdspy](https://github.com/SermetPekin/evdspy)** –   python package to retrieve data from CBRT API.
