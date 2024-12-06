@@ -15,6 +15,7 @@ Here are some of my notable open-source projects:
 - **[backupp](https://github.com/SermetPekin/backupp)** –  A utility package to backup folders with a .gitignore file as git does.
 - **[eseas](https://github.com/SermetPekin/eseas)** – `eseas` is a seasonal adjustment Python package that acts as a wrapper for the `jwsacruncher` Java package. This tool allows users to process Demetra workspace XML files, create batch files, execute them, and collect the desired outputs into individual Excel files.
 ##### C++ 
+- **[microgradCpp](https://github.com/SermetPekin/microgradCpp)** – A minimalistic Neural Network C++ library inspired by Andrej Karpathy's micrograd python package. 
 - **[evdscpp](https://github.com/SermetPekin/evdscpp)** –  C++ library to retrieve data from CBRT API.
 - **[dotenv](https://github.com/SermetPekin/dotenv)** – A simple, header-only C++ library for loading environment variables from a .env file, similar to dotenv in other languages. This library allows you to set and retrieve environment variables in C++ projects without needing any external dependencies.
 ##### R
