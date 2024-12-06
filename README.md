@@ -7,6 +7,11 @@
 ## 🔧 Projects & Packages
 
 Here are some of my notable open-source projects:
+
+- **[![MicrogradCpp](https://img.shields.io/badge/MicrogradCpp-C++-brightgreen)](https://github.com/SermetPekin/microgradCpp)** – A minimalistic Neural Network C++ library inspired by Andrej Karpathy's micrograd python package. 
+- **[ ![evdscpp](https://img.shields.io/badge/evdscpp-C++-brightgreen) ](https://github.com/SermetPekin/evdscpp)** –  C++ library to retrieve data from CBRT API.
+- **[![dotenv](https://img.shields.io/badge/dotenv-C++-brightgreen)](https://github.com/SermetPekin/dotenv)** – A simple, header-only C++ library for loading environment variables from a .env file, similar to dotenv in other languages. This library allows you to set and retrieve environment variables in C++ projects without needing any external dependencies.
+  
 - **[![perse](https://img.shields.io/badge/perse-python-green)](https://github.com/SermetPekin/perse)** – A high level framework to leverage best of three giants, Pandas, Polars and Duckdb
 - **[![nameisok](https://img.shields.io/badge/nameisok-python-green)](https://github.com/SermetPekin/nameisok)** – A tool to check if a package name is available on PyPI, complete with similarity checks and BigQuery integration.
 - **[![evdschat](https://img.shields.io/badge/evdschat-python-green)](https://github.com/SermetPekin/evdschat)** – An open-source RAG application for data aggregation with PyPI.
@@ -15,9 +20,7 @@ Here are some of my notable open-source projects:
 - **[![dotenv](https://img.shields.io/badge/eseas-python-green)](https://github.com/SermetPekin/eseas)** – `eseas` is a seasonal adjustment Python package that acts as a wrapper for the `jwsacruncher` Java package. This tool allows users to process Demetra workspace XML files, create batch files, execute them, and collect the desired outputs into individual Excel files.
  
  
-- **[![MicrogradCpp](https://img.shields.io/badge/MicrogradCpp-C++-brightgreen)](https://github.com/SermetPekin/microgradCpp)** – A minimalistic Neural Network C++ library inspired by Andrej Karpathy's micrograd python package. 
-- **[ ![evdscpp](https://img.shields.io/badge/evdscpp-C++-brightgreen) ](https://github.com/SermetPekin/evdscpp)** –  C++ library to retrieve data from CBRT API.
-- **[![dotenv](https://img.shields.io/badge/dotenv-C++-brightgreen)](https://github.com/SermetPekin/dotenv)** – A simple, header-only C++ library for loading environment variables from a .env file, similar to dotenv in other languages. This library allows you to set and retrieve environment variables in C++ projects without needing any external dependencies.
+
  
 
 - **[![Rapi](https://img.shields.io/badge/Rapi-R-blueviolet)](https://github.com/DataRapi/Rapi)** – R package to retrieve economic data from APIs (currently only from CBRT and Fed).
