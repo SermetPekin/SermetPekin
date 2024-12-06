@@ -19,8 +19,8 @@ Here are some of my notable open-source projects:
 - **[![MicrogradCpp](https://img.shields.io/badge/MicrogradCpp-C++-green)](https://github.com/SermetPekin/microgradCpp)** – A minimalistic Neural Network C++ library inspired by Andrej Karpathy's micrograd python package. 
 - **[ ![evdscpp](https://img.shields.io/badge/evdscpp-C++-green) ](https://github.com/SermetPekin/evdscpp)** –  C++ library to retrieve data from CBRT API.
 - **[![dotenv](https://img.shields.io/badge/dotenv-C++-green)](https://github.com/SermetPekin/dotenv)** – A simple, header-only C++ library for loading environment variables from a .env file, similar to dotenv in other languages. This library allows you to set and retrieve environment variables in C++ projects without needing any external dependencies.
-##### ![R](https://img.shields.io/badge/%20-R++-green)
-- **[![dotenv](https://img.shields.io/badge/Rapi-R-green)](https://github.com/DataRapi/Rapi)** – R package to retrieve economic data from APIs (currently only from CBRT and Fed).
+##### ![R](https://img.shields.io/badge/%20-R-green)
+- **[![Rapi](https://img.shields.io/badge/Rapi-R-green)](https://github.com/DataRapi/Rapi)** – R package to retrieve economic data from APIs (currently only from CBRT and Fed).
 
 
 
