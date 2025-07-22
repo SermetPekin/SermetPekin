@@ -19,10 +19,10 @@ Here are some of my notable open-source projects:
 - **[![evdschat](https://img.shields.io/badge/evdschat-python-green)](https://github.com/SermetPekin/evdschat)** – An open-source RAG application for data aggregation with PyPI.
 - **[![evdspy](https://img.shields.io/badge/evdspy-python-green)](https://github.com/SermetPekin/evdspy-repo)** –   python package to retrieve data from CBRT API.
 - **[![backupp](https://img.shields.io/badge/backupp-python-green)](https://github.com/SermetPekin/backupp-rep)** –  A utility package to backup folders with a .gitignore file as git does.
-- **[![eseas](https://img.shields.io/badge/eseas-python-green)](https://github.com/SermetPekin/eseas-repo)** -[![eseas](https://github.com/SermetPekin/eseas-repo/actions/workflows/python-package.yml/badge.svg?2)](https://github.com/SermetPekin/eseas-repo/actions/workflows/python-package.yml) – `eseas` is a seasonal adjustment Python package that acts as a wrapper for the `jwsacruncher` Java package. This tool allows users to process Demetra workspace XML files, create batch files, execute them, and collect the desired outputs into individual Excel files.
+- **[![eseas](https://img.shields.io/badge/eseas-python-green)](https://github.com/SermetPekin/eseas-repo)** – `eseas` is a seasonal adjustment Python package that acts as a wrapper for the `jwsacruncher` Java package. This tool allows users to process Demetra workspace XML files, create batch files, execute them, and collect the desired outputs into individual Excel files.
  
- 
-
+- **[![pdfsp](https://img.shields.io/badge/pdfsp-python-green)](https://github.com/SermetPekin/pdfsp)** –  A utility package to extract tables from PDF files. 
+- **[![smartrun](https://img.shields.io/badge/smartrun-python-green)](https://github.com/SermetPekin/smartrun)** – Runs a python file or jupyter notebook installing all the packages that is required for these to be executed. It installs packages to curent environment and runs the python file. Jupyter notebooks can also be exported as html.  
  
 
 - **[![Rapi](https://img.shields.io/badge/Rapi-R-blueviolet)](https://github.com/DataRapi/Rapi)** – R package to retrieve economic data from APIs (currently only from CBRT and Fed).
