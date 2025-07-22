@@ -12,6 +12,8 @@ Here are some of my notable open-source projects:
 - **[ ![evdscpp](https://img.shields.io/badge/evdscpp-C++-brightgreen) ](https://github.com/SermetPekin/evdscpp)** –  C++ library to retrieve data from CBRT API.
 - **[![dotenv](https://img.shields.io/badge/dotenv-C++-brightgreen)](https://github.com/SermetPekin/dotenv)** – A simple, header-only C++ library for loading environment variables from a .env file, similar to dotenv in other languages. This library allows you to set and retrieve environment variables in C++ projects without needing any external dependencies.
 
+- **[![smartrun](https://img.shields.io/badge/smartrun-python-green)](https://github.com/SermetPekin/smartrun)** – Runs a Python script or Jupyter notebook by automatically installing all required packages. Dependencies are installed into the current environment before execution. Jupyter notebooks can optionally be exported as HTML after running.
+  
 - **[![microgradExtended](https://img.shields.io/badge/microgradExtended-python-green)](https://github.com/SermetPekin/micrograd)** – A minimalistic Neural Network python library extended from Andrej Karpathy's micrograd python package. 
   
 - **[![perse](https://img.shields.io/badge/perse-python-green)](https://github.com/SermetPekin/perse)** – A high level framework to leverage best of three giants, Pandas, Polars and Duckdb
@@ -22,7 +24,7 @@ Here are some of my notable open-source projects:
 - **[![eseas](https://img.shields.io/badge/eseas-python-green)](https://github.com/SermetPekin/eseas-repo)** – `eseas` is a seasonal adjustment Python package that acts as a wrapper for the `jwsacruncher` Java package. This tool allows users to process Demetra workspace XML files, create batch files, execute them, and collect the desired outputs into individual Excel files.
  
 - **[![pdfsp](https://img.shields.io/badge/pdfsp-python-green)](https://github.com/SermetPekin/pdfsp)** –  A utility package to extract tables from PDF files. 
-- **[![smartrun](https://img.shields.io/badge/smartrun-python-green)](https://github.com/SermetPekin/smartrun)** – Runs a python file or jupyter notebook installing all the packages that is required for these to be executed. It installs packages to curent environment and runs the python file. Jupyter notebooks can also be exported as html.  
+
  
 
 - **[![Rapi](https://img.shields.io/badge/Rapi-R-blueviolet)](https://github.com/DataRapi/Rapi)** – R package to retrieve economic data from APIs (currently only from CBRT and Fed).
