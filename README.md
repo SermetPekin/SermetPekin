@@ -8,6 +8,10 @@
 
 Here are some of my notable open-source projects:
 
+- [![Random-Forests-C](https://img.shields.io/badge/Random--Forests--C-C-forestgreen)](https://github.com/SermetPekin/random-forests-c) – A basic, reproducible Random Forest implementation in C with real dataset scripts, Makefile, and CI.
+Forked from dobroshynski/random-forests-c by Andrii Dobroshynski.
+Extended with real dataset scripts, Makefile, CI, and critical bug fixes by Sermet Pekin.
+
 - **[![MicrogradCpp](https://img.shields.io/badge/MicrogradCpp-C++-brightgreen)](https://github.com/SermetPekin/microgradCpp)** – A minimalistic Neural Network C++ library inspired by Andrej Karpathy's micrograd python package. 
 - **[ ![evdscpp](https://img.shields.io/badge/evdscpp-C++-brightgreen) ](https://github.com/SermetPekin/evdscpp)** –  C++ library to retrieve data from CBRT API.
 - **[![dotenv](https://img.shields.io/badge/dotenv-C++-brightgreen)](https://github.com/SermetPekin/dotenv)** – A simple, header-only C++ library for loading environment variables from a .env file, similar to dotenv in other languages. This library allows you to set and retrieve environment variables in C++ projects without needing any external dependencies.
