@@ -7,6 +7,7 @@
 ## 🔧 Projects & Packages
 
 Here are some of my notable open-source projects:
+- [![Random-Forests-C](https://img.shields.io/badge/demetrapy-python-green)](https://github.com/SermetPekin/demetrapy) Python toolkit for the seasonal-adjustment procedures in JDemetra+. It provides a Python API for individual and pandas-based workflows, a command-line interface, and an interactive dashboard. Calculations use the JDemetra+ X13 and TRAMO/SEATS implementations through JPype; neither procedure is reimplemented in Python.
 
 - [![Random-Forests-C](https://img.shields.io/badge/Random--Forests--C-C-forestgreen)](https://github.com/SermetPekin/random-forests-c) – A basic, reproducible Random Forest implementation in C with real dataset scripts, Makefile, and CI.
 Forked from dobroshynski/random-forests-c by Andrii Dobroshynski.
